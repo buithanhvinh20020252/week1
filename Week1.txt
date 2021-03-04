@@ -1,0 +1,19 @@
+Bài tập trắc nghiệm tuần 1
+A
+1. không làm gì
+2.0
+3. Vì 4294967296 đã vượt quá khả năng lưu trữ của int, mà kết quả của phép x * x sẽ được lưu vào int trước
+4.2
+5. Chương trình cảnh báo không chia được cho 0
+6.4.94066e-324
+[Error] invalid operands of types 'int' and 'const char [6]' to binary 'operator*'
+Nếu chuyển dòng khai báo biến x ra ngoài hàm main thì chương trình sẽ không chạy được
+7.	0
+	0.75
+	0.75
+	0.75
+8.[Error] conflicting declaration 'char arg1'
+9. A
+10.A
+11.5/9
+12.Here
